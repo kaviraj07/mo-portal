@@ -68,3 +68,5 @@ _ _ _
 * Change url of logo link `/includes/navbar/nav.php` (Line 7).
 * Change url of logo link in `/includes/navbar/nav2.php` (Line 8).
 * Change url of logout link in `/includes/navbar/nav2.php` (Line 30).
+
+### Pushed to [Competition Repository Team 11](https://github.com/hackersdotmu/UoM-Web-Competition-2019/tree/Team11)
